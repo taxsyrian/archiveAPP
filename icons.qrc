@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>png/delete.png</file>
+    <file>png/exiticon.png</file>
+    <file>png/help.png</file>
+    <file>png/maximizew.png</file>
+    <file>png/menu.png</file>
+    <file>png/minimizew.png</file>
+    <file>png/minimize.png</file>
+    <file>png/browse.png</file>
+    <file>png/dialy.png</file>
+    <file>png/entrymail.png</file>
+    <file>png/exit.png</file>
+    <file>png/report.png</file>
+    <file>png/search.png</file>
+    <file>png/setting.png</file>
+    <file>png/syria.png</file>
+    <file>png/3kab.png</file>
+    <file>png/3kabnew.png</file>
+    <file>png/black3kab.png</file>
+    <file>png/tax.png</file>
+    <file>png/website.png</file>
+    <file>png/youtube.png</file>
+    <file>png/open_eye.png</file>
+    <file>png/closed-eye.png</file>
+    <file>png/facebook.png</file>
+    <file>png/filter.png</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>img/201301210330552.Png</file>
+    <file>img/functionality.jpg</file>
+    <file>img/images.jpg</file>
+    <file>img/images3.jpg</file>
+    <file>img/login.png</file>
+
+    <file>img/Untitled.jpg</file>
+    <file>img/Untitled3.jpg</file>
+  </qresource>
+</RCC>
